@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "photobooth",
+    "gphoto-rs",
+    "gphoto2-sys"
+]
